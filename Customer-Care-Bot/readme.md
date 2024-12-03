@@ -30,5 +30,8 @@ The Customer Care Bot is an advanced customer support solution designed to revol
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- 
+
+
+  Welcome to the Customer Care Bot! This project demonstrates the integration of OpenAI’s GPT-3.5 model into a customer support system, enabling intelligent conversational interactions for e-commerce websites.
+
 
