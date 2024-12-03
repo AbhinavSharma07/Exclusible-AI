@@ -6,7 +6,6 @@ The Customer Care Bot is an advanced customer support solution designed to revol
 
 ## Key Features
 
-```plaintext
 1. **Conversational Intelligence**  
    Engages customers in natural, dynamic conversations, mimicking the warmth and efficiency of human customer support.
 
@@ -21,3 +20,13 @@ The Customer Care Bot is an advanced customer support solution designed to revol
 
 5. **Context Management**  
    Maintains context throughout conversations, enabling a smooth and consistent customer experience even during topic switches.
+
+   - [Introduction](#introduction)
+- [Approach and Methods](#approach-and-methods)
+- [Decisions Taken](#decisions-taken)
+- [Assumptions](#assumptions)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
