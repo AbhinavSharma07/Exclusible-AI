@@ -21,7 +21,8 @@ The Customer Care Bot is an advanced customer support solution designed to revol
 5. **Context Management**  
    Maintains context throughout conversations, enabling a smooth and consistent customer experience even during topic switches.
 
-   - [Introduction](#introduction)
+
+- [Introduction](#introduction)
 - [Approach and Methods](#approach-and-methods)
 - [Decisions Taken](#decisions-taken)
 - [Assumptions](#assumptions)
@@ -29,4 +30,5 @@ The Customer Care Bot is an advanced customer support solution designed to revol
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- 
 
